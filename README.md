@@ -80,9 +80,6 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-https://user-images.githubusercontent.com/48234672/164884132-8a8a7f7c-dcf7-44d0-af3d-c94e5fb6c15f.mp4
-
-
 # Create Project
 Hello create project
 sample mp4 screen recorder is good, instead of images.
