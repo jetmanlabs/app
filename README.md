@@ -80,12 +80,15 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-![jetmanlabs_send_request](images/send_first_request_response.png)
+https://user-images.githubusercontent.com/48234672/164883466-f185123f-85ae-4775-b92a-a022270795cc.mp4
 
+https://github.com/jetmanlabs/app/tree/integration/videos/sample_video.mp4
+
+./videos/sample_video.mp4
 
 # Create Project
 Hello create project
 sample mp4 screen recorder is good, instead of images.
 
-https://user-images.githubusercontent.com/48234672/164883466-f185123f-85ae-4775-b92a-a022270795cc.mp4
+
 
