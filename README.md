@@ -73,11 +73,15 @@
 As you open app, Jetman app creates default project. you can check path from setting icon in bottom right footer.
 If you want to create a create a new project with user defined path in your local filesystem to save your suites and requests, refer [Create Project](#create-project).
 
-### Steps to send your first request
+#### Steps to send your first request
 - Select Http method from 'GET' method dropdown.
 - Enter request url in 'Enter Request url here' text bar.
 - Add headers,auth,body as needed.
 - Click on Send button on the right (green color)
+- Response will be displayed in right panel and response time and status code on right top side.
+
+![Apple logo](https://jetmanlabs.com/docs/media/ss/mac.png)
+
 
 # Create Project
 Hello create project
