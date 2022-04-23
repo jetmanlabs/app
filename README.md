@@ -12,7 +12,7 @@
 - Jetrunner Marketplace - Publish API's to public marketplace for sharing
 - Jetrunner Documentation - Generate API documentation from your suites.
 
-## Table of Contents
+## Table of Contents (App and CLI)
 - [Getting Started](#getting-started)
 - [Create Project](#create-project)
 - [Import Project](#import-project)
