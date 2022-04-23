@@ -68,3 +68,7 @@
 
 [MacOS Installer](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
 
+## Send First Request
+
+As you open app, Jetman app creates default project. you can check path from setting icon in bottom right footer.
+If you want to create a create a new project with user defined path in your local filesystem to save your suites and requests, refer [Create Project](#create-project)  
