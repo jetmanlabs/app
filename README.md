@@ -57,7 +57,7 @@
 
 ## Download Jetman App
 
-![Windows logo](https://jetmanlabs.com/docs/media/ss/window.png)(https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
+[![Windows logo](https://jetmanlabs.com/docs/media/ss/window.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
 
-![Apple logo](https://jetmanlabs.com/docs/media/ss/mac.png)(https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
+[![Apple logo](https://jetmanlabs.com/docs/media/ss/mac.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
 
