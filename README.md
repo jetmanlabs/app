@@ -80,7 +80,7 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-![jetmanlabs_send_request](images/send_first_request.png)
+![jetmanlabs_send_request](images/send_first_request_response.png)
 
 
 # Create Project
