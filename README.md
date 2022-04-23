@@ -80,7 +80,7 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-![Apple logo](https://jetmanlabs.com/docs/media/ss/mac.png)
+![jetmanlabs_send_request](images/send_first_request.png)
 
 
 # Create Project
