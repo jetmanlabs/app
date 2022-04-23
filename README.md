@@ -55,10 +55,11 @@
 
 # Getting Started
 
+
+[Watch the video](http://i3.ytimg.com/vi/8pbItxrKSFc/hqdefault.jpg)](https://youtu.be/8pbItxrKSFc)
 ## Download Jetman App
 
-[![Watch the video](http://i3.ytimg.com/vi/8pbItxrKSFc/hqdefault.jpg)](https://youtu.be/8pbItxrKSFc)
-[![Windows logo](https://jetmanlabs.com/docs/media/ss/window.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
+[Windows](https://jetmanlabs.com/docs/media/ss/window.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
 
-[![Apple logo](https://jetmanlabs.com/docs/media/ss/mac.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
+[MacOS](https://jetmanlabs.com/docs/media/ss/mac.png)](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
 
