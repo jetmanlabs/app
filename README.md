@@ -59,7 +59,7 @@
 [Watch the video](https://youtu.be/8pbItxrKSFc)
 ## Download Jetman App
 
-[Windows Installer](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
+![windows logo](https://jetmanlabs.com/docs/media/ss/window.png) [Windows Installer (https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-Setup-23.4.25.exe)
 
 [MacOS Installer](https://github.com/jetmanlabs/app/releases/download/v23.4.25/jetman-23.4.25.dmg)
 
