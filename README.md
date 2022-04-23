@@ -44,4 +44,7 @@
   -[Print Response Object in Console](#Print-Response-Object-in-Console)
   -[Select Env and Print Varaibles](#Select-Env-and-Print-Varaibles)
   -[Print Runtime Varaibles](#Print-Runtime-Varaibles)
+- [Jetrunner-cli to run suites from CLI](#Jetrunner-cli-to-run-suites-from-CLI)
+  -[Installation and Usage](#Installation-and-Usage)
+  -[Command Line Options](#Command-Line-Options)
 - [FAQ's](#FAQ's)
