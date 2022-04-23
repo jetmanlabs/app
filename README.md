@@ -80,9 +80,17 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
+watch video
+
+https://user-images.githubusercontent.com/48234672/164884955-2e4efd14-31b8-4538-961b-e70d77d1354d.mp4
+
 # Create Project
-Hello create project
-sample mp4 screen recorder is good, instead of images.
+
+Jetman app saves all project suites and request data to user defined local filesystem and users can use github to collaborate with ther developers within their organizations. This way user credentials are safe within their premises without worrying about security and their API data on third party cloud providers. This makes Jetman unique and provides users a secure API deevlopment environment.
+
+#####  Steps create new project with user defined path
+- Open Jetman app and click on +New button (green button on top left)
+- 
 
 
 
