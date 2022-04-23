@@ -80,11 +80,8 @@ If you want to create a create a new project with user defined path in your loca
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-https://user-images.githubusercontent.com/48234672/164883466-f185123f-85ae-4775-b92a-a022270795cc.mp4
+https://user-images.githubusercontent.com/48234672/164884132-8a8a7f7c-dcf7-44d0-af3d-c94e5fb6c15f.mp4
 
-https://github.com/jetmanlabs/app/tree/integration/videos/sample_video.mp4
-
-./videos/sample_video.mp4
 
 # Create Project
 Hello create project
