@@ -25,12 +25,12 @@
 - [Response Assertions and Validations](#response-assertions-and-validations)
 - [Response Extractor and Run-time Variables](#response-extractor-and-run-time-variables)
   - [Extract and save response fields in runtime-variables](#extract-and-save-response-fields-in-runtime-variables)
-  - [How to use runtime-variables in requests](#how-to-use-runtime-variables-in-requests]
+  - [How to use runtime-variables in requests](#how-to-use-runtime-variables-in-requests)
   - [Example-Automating Authentication using response extractor](Example-Automating-Authentication-using-response-extractor)
 - [Env Variables](#Env-Variables)
   - [Run suites with various env using user defined env](#Run-suites-with-various-env-using-user-defined-env)
 - [Switch Projects](#Switch-Projects)
-- [Runner Module](#Runner-Module]
+- [Runner Module](#Runner-Module)
   - [How to run all requests using runner](#How-to-run-all-requests-using-runner)
   - [Using Env and Iterations](#Using-Env-and-Iterations)
   - [Understanding Responses and Assertions](#Understanding-Responses-and-Assertions)
