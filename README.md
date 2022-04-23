@@ -47,4 +47,8 @@
 - [Jetrunner-cli to run suites from CLI](#Jetrunner-cli-to-run-suites-from-CLI)
   - [Installation and Usage](#Installation-and-Usage)
   - [Command Line Options](#Command-Line-Options)
+- [Marketplace](#Marketplace)
+  - [Publish to Marketplace](#Publish-to-Marketplace)
+  - [Import from Marketplace](#Import-from-Marketplace)
+  - [Edit Marketplace Published API's](#Edit-Marketplace-Published-API's)
 - [FAQ's](#FAQ's)
