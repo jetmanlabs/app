@@ -44,4 +44,4 @@
   -[Print Response Object in Console](#Print-Response-Object-in-Console)
   -[Select Env and Print Varaibles](#Select-Env-and-Print-Varaibles)
   -[Print Runtime Varaibles](#Print-Runtime-Varaibles)
--[FAQ's](#FAQ's)
+- [FAQ's](#FAQ's)
