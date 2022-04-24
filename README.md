@@ -91,6 +91,5 @@ Jetman app saves all project suites and request data to user defined local files
 #####  Steps create new project with user defined path
 - Open Jetman app and click on +New button (green button on top left)
 - 
-
-
+watch video
 
