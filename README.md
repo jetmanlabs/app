@@ -101,10 +101,7 @@ https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-
 
 Jetman app provides Import project feature. It also can help to restore the project that was deleted mistakenly or for many purposes. You can import the project with json format.
 
-#####  Steps create new project with user defined path
-- Open Jetman app and click on +New button (green button on top left)
-- Enter the project name and select where to create/save that project in your system.
-- After click on "create" button the project will created.
+## Import From Postman
 
 watch video
 
