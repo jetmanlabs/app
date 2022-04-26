@@ -101,8 +101,17 @@ https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-
 
 Jetman app provides Import project feature. It also can help to restore the project that was deleted mistakenly or for many purposes. You can import the project with json format.
 
-## Import From Postman
+### Import From Postman
+
+1.Import Postman Collection
+
+#####  Steps Import Postman collection
+- Open Jetman app and click on Import button (on top left)
+- Click on postman backup from import tab to import postman file.
+- Choosing file of postman which you want to import.
+- After click import button your postman collection successfully imported under you existing jetman project.
 
 watch video
 
 https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+
