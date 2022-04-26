@@ -16,8 +16,9 @@
 - [Getting Started](#getting-started)
 - [Create Project](#create-project)
 - [Import Project](#import-project)
-  - [Import from Postman](#import-from-postman)
-  - [Import from Jetman](#import-from-jetman)
+  - [Import From Postman Collection](#import-from-postman-collection)
+  - [Import Postman Workspace](#import-postman-workspace)
+  - [Import Existing Jetman Backup(Project/Suites)](#import-existing-jetman-backup)
 - [Manage Suites and Requests](#manage-suites-and-requests)
   - [Create suites and add Requests](#create-suites-and-add-requests)
   - [Modify suites or Requests](#modify-suites-or-requests)
@@ -57,7 +58,6 @@
 
 [![jetmanlabs video](http://i3.ytimg.com/vi/8pbItxrKSFc/hqdefault.jpg)](https://youtu.be/8pbItxrKSFc)
 
-[Watch the video](https://youtu.be/8pbItxrKSFc)
 ## Download Jetman App
 
 ![Microsoft logo](https://jetmanlabs.com/docs/media/ss/window.png)
@@ -73,75 +73,76 @@
 As you open app, Jetman app creates default project. you can check path from setting icon in bottom right footer.
 If you want to create a create a new project with user defined path in your local filesystem to save your suites and requests, refer [Create Project](#create-project).
 
-##### Steps to send your first request
+To send First request
+
 - Select Http method from 'GET' method dropdown.
 - Enter request url in 'Enter Request url here' text bar.
 - Add headers,auth,body as needed.
 - Click on Send button on the right (green color)
 - Response will be displayed in right panel and response time and status code on right top side.
 
-watch video
+Click image below to watch video [click to play]
 
-https://user-images.githubusercontent.com/48234672/164884955-2e4efd14-31b8-4538-961b-e70d77d1354d.mp4
+[![jetman_send_first_request](https://user-images.githubusercontent.com/48234672/165219970-f90896fd-717c-4190-a0f5-cdfa304da408.png)](https://user-images.githubusercontent.com/48234672/165217879-922f4d0c-28ff-45c0-8acd-f875d134a882.mp4)
 
 # Create Project
 
-Jetman app saves all project suites and request data to user defined local filesystem and users can use github to collaborate with ther developers within their organizations. This way user credentials are safe within their premises without worrying about security and their API data on third party cloud providers. This makes Jetman unique and provides users a secure API deevlopment environment.
+Jetman app saves all project suites and request data to user defined local filesystem and users can use github to collaborate with ther developers within their organizations. This way user credentials are safe within their premises without worrying about security and their API data on third party cloud providers. This makes Jetman unique and provides users a secure API deevlopment environment and saves all data in your premises.
 
-#####  Steps create new project with user defined path
-- Open Jetman app and click on +New button (green button on top left)
+- Open Jetman app and click on **+New** button (green button on top left)
 - Enter the project name and select where to create/save that project in your system.
-- After click on "create" button the project will created.
+- After click on "create" button the project will created. Now yo can create suites and requests to save in this project.
 
-watch video
+Note: As a next step, to save a request, you need to create suite first.
 
-https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+Click image below to watch video [click to play]
+
+[![jetman_create_new_project](https://user-images.githubusercontent.com/48234672/165220954-ad3f75c8-5a38-4f28-8095-450f805f809f.png)](https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4)
 
 # Import Project
 
-Jetman app provides Import project feature. It also can help to restore the project that was deleted mistakenly or for many purposes. You can import the project with json format.
+Jetman allows you to import Jetman projects/suites or Postman WS or collections.
 
-### Import From Postman
+### Import From Postman Collection
 
-1.Import Postman Collection
+- Open Jetman app and click on **Import** Tab (on top left)
+- Click on **Postman backup** from left menu.
+- Choose file of postman Collection which you want to import. (zip, json)
+- After click import button your Postman Collection import should be success.
 
-#####  Steps Import Postman collection
-- Open Jetman app and click on Import button (on top left)
-- Click on postman backup from import tab to import postman Collection.
-- Choosing file of postman which you want to import.
-- After click import button your postman collection successfully imported under you existing jetman project.
+Click image below to watch video [click to play]
 
-watch video
+[![Import_postman_WS_collection](https://user-images.githubusercontent.com/48234672/165239787-7e110cdb-e8dd-40ab-8123-85cc4f7e9b06.png)](https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4)
 
-https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+### Import Postman Workspace
 
-2.Import Postman Workspace
+- Open Jetman app and click on **Import** Tab (on top left)
+- Click on **Postman backup** from left menu.
+- Choose file of Postman Workspace backup which you want to import. (zip, json)
+- For Postman WS file, you will notice new fields to enter new project name and directory path where you want to Import Postman WS in your local system.
+- After click import button your Postman Collection import should be success.
 
-#####  Steps Import Postman Workspace
-- Open Jetman app and click on Import button (on top left)
-- Click on postman backup from import tab to import postman workspace.
-- Choosing file of postman which you want to import which is in Zip format.
-- Then enter project name and choose directory where you want to save project in your system.
-- After click import button your postman workspace successfully imported.
+Click image below to watch video [click to play]
 
-watch video
+[![postman_ws_import](https://user-images.githubusercontent.com/48234672/165240287-0f461420-e44a-4076-b317-4389b564ef8c.png)](https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4)
 
-https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+### Import Existing Jetman Backup
 
-### Import From Jetman
+User can Import shared or existing Jetman project export file (json), exported suite (json) or any cloned Jetman git repo or similar as directory, this option is popular if user use github to save API project to collaborated with other engineer within the organizations.
 
-1.Import Jetman Backup
 
-#####  Steps Import Jetman Backup
-- Open Jetman app and click on Import button (on top left)
-- Click on Jetman backup from import tab to import jetman backup.
-- There are two buttons shown:
-   1.Backup button(which is in green color) use for import jetman backup in json format.  
-   2.Directory button(which is in Blue color) use for import jetman backup in directory form.  
-- After select button then choose file which you want to import.
-- Then enter project name and select target folder where you want to save project in your system.
-- Then press import button and your project will successfully imported.
+- Open Jetman app and click on **Import** button (on top left)
+- Click on **Jetman backup** from left menu.
+- There are two options:
+   - Backup button (green button). Select this if importing an Jetman json backup file.
+   - Directory button (Blue button). Select if importing from Jetman backup directory. Mostly used if Jetman project is git cloned as directory in your local filesystem. 
+- For backup file import, you will be asked for new project name and location to save project data. If importing suites json file, it will be imported in current project.
+- After click import button your Jetman backup/directory should be imported with success.
 
-watch video
+Click image below to watch video [click to play]
 
-https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+[![jetman_backup_import](https://user-images.githubusercontent.com/48234672/165242151-0f6478a5-3ccc-48f6-97cb-476532fd3d85.png)](
+https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4)
+
+
+
