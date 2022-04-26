@@ -107,7 +107,7 @@ Jetman app provides Import project feature. It also can help to restore the proj
 
 #####  Steps Import Postman collection
 - Open Jetman app and click on Import button (on top left)
-- Click on postman backup from import tab to import postman file.
+- Click on postman backup from import tab to import postman Collection.
 - Choosing file of postman which you want to import.
 - After click import button your postman collection successfully imported under you existing jetman project.
 
@@ -115,3 +115,33 @@ watch video
 
 https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
 
+2.Import Postman Workspace
+
+#####  Steps Import Postman Workspace
+- Open Jetman app and click on Import button (on top left)
+- Click on postman backup from import tab to import postman workspace.
+- Choosing file of postman which you want to import which is in Zip format.
+- Then enter project name and choose directory where you want to save project in your system.
+- After click import button your postman workspace successfully imported.
+
+watch video
+
+https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
+
+### Import From Jetman
+
+1.Import Jetman Backup
+
+#####  Steps Import Jetman Backup
+- Open Jetman app and click on Import button (on top left)
+- Click on Jetman backup from import tab to import jetman backup.
+- There are two buttons shown:
+   1.Backup button(which is in green color) use for import jetman backup in json format.  
+   2.Directory button(which is in Blue color) use for import jetman backup in directory form.  
+- After select button then choose file which you want to import.
+- Then enter project name and select target folder where you want to save project in your system.
+- Then press import button and your project will successfully imported.
+
+watch video
+
+https://user-images.githubusercontent.com/83591484/164969326-b6956d72-bd60-4a33-8c72-b17a24c39df5.mp4
